@@ -4,7 +4,7 @@
  */
 /* globals Page, swan */
 
-Page({
+Page1({
     data: {
         items: [{
             icon: '../../images/interface.png',
